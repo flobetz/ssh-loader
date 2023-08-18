@@ -1,3 +1,6 @@
+![OS](https://img.shields.io/badge/OS-macOS-blue)
+[![License](https://img.shields.io/badge/license-Apache%202.0-green)](https://github.com/flobetz/ssh-loader/blob/master/LICENSE)
+
 # ssh-loader
 script which automatically starts an ssh-agent and loads provided keys
 
